@@ -1,0 +1,113 @@
+/* a minimalist set of CSS resets */
+
+/* default to border-box
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+ */
+
+/* adjust typography defaults */
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2rem;
+
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/backgrounds.jpg?v=1650588663424");
+  background-position: center;
+  background-size: cover;
+
+  color: Black;
+}
+
+h1 {
+  font-family: verdana, arial, sans-serif;
+}
+
+button {
+  padding: 15px;
+  border-radius: 15px;
+}
+
+#gameButtonArea > button {
+  width: 150px;
+  height: 150px;
+  margin: 2px;
+}
+
+.hidden {
+  display: none;
+}
+
+#button1 {
+  /*background: lightgreen; */
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/pf-90eec9f1--saddogspotthesignsandcheerthemup.jpg?v=1650585228896");
+  background-position: center;
+  background-size: cover;
+}
+
+#button1:active,
+#button1.lit {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/download.jpg?v=1650275815606");
+  background-position: center;
+  background-size: cover;
+}
+
+#button2 {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/sad-cat.jpg?v=1650586336775");
+  background-position: center;
+  background-size: cover;
+}
+#button2:active,
+#button2.lit {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/cdkydjg.jpg?v=1650586360016");
+  background-position: center;
+  background-size: cover;
+}
+
+#button3 {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/sad-monkey.jpg?v=1650587034105");
+  background-position: center;
+  background-size: cover;
+}
+#button3:active,
+#button3.lit {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/happy-monkey.jpg?v=1650587045651");
+  background-position: center;
+  background-size: cover;
+}
+
+#button4 {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/sad-bear.jpg?v=1650587051710");
+  background-position: center;
+  background-size: cover;
+}
+#button4:active,
+#button4.lit {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/happy-bear.jpg?v=1650587057227");
+  background-position: center;
+  background-size: cover;
+}
+
+#button5 {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/sad-lion.jpg?v=1650587063855");
+  background-position: center;
+  background-size: cover;
+}
+#button5:active,
+#button5.lit {
+  background-image: url("https://cdn.glitch.global/33ae02d5-e9ee-43c6-8d54-333e2b73afab/happy-lion.jpg?v=1650587060134");
+  background-position: center;
+  background-size: cover;
+}
+
+/* images and videos max out at full width 
+img,
+video {
+  height: auto;
+  max-width: 100%;
+}
+*/
