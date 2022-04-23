@@ -45,6 +45,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ![](gif4-link-here)
 
 ## Reflection Questions
+Quick note: About the video, I was really excited to talk about these topics and mention my experiences. Though,I try to speed up in the video to meet the time requirement of 5 min.  
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 2. 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random 
@@ -60,7 +61,7 @@ Some challenges that I faced were changing the button outlook to be an image. I 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-Some questions regarding my project is how Can I add animal voices to the buttons. I have really tried, but all of the pictures shared the same sound and messed up the game. Some other general questions are how are web pages always updated(e.g News sites)? Does someone manually change them, is there an application that updates it automatically? How do engineers test these web applications? What other technologies are also incorporated with web development other than these 3 languages? How to post a live website and keep it running instead of just hosting them locally? Also, how can we interact with the user and request information from them, and receive insights on what the user does when they're on the website so we can improve it?
+Some questions regarding my project is how Can I add animal voices to the buttons. I have really tried, but all of the pictures shared the same sound and messed up the game. Some other general questions are how are web pages always updated(e.g News sites)? Does someone manually change them, is there an application that updates it automatically? How do engineers test these web applications? What other technologies are also incorporated with web development other than these 3 languages? How to post a live website and keep it running instead of just hosting them locally? Also, how can we interact with the user and request information from them, and receive insights on what the user does when they're on the website so we can improve the webiste? How can websites intereact with other websites to extract the needed information(ex : movie ticket website)? how's the market for web devlopers, is there a demand for them?
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 
