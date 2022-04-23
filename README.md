@@ -60,7 +60,7 @@ Some challenges that I faced were changing the button outlook to be an image. I 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-Quick note: About the video, I was really excited and happy to talk about these topics and mention my experiences. Though,I try to speed up in the video to meet the time requirement of 5 min.  
+Quick note: About the video, I was really excited and happy to talk about these topics and mention my experiences. Though,I try to speed up in the video to meet the time requirement of 5 min, so my facial expressions can seem a bit anxious in the video about meeting the time mark :)  I have tried recording multiple times, but my facial expressions were always the same as I try to speed up. 
 
 Some questions regarding my project is how Can I add animal voices to the buttons. I have really tried, but all of the pictures shared the same sound and messed up the game. Some other general questions are how are web pages always updated(e.g News sites)? Does someone manually change them, is there an application that updates it automatically? How do engineers test these web applications? What other technologies are also incorporated with web development other than these 3 languages? How to post a live website and keep it running instead of just hosting them locally? Also, how can we interact with the user and request information from them, and receive insights on what the user does when they're on the website so we can improve the webiste? How can websites intereact with other websites to extract the needed information(ex : movie ticket website)? how's the market for web devlopers, is there a demand for them?
 
@@ -71,13 +71,15 @@ Some questions regarding my project is how Can I add animal voices to the button
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/eJj7LRgkv3NCaBrGeqLD_FAkUJ9_IJUFleDaAXcQjZLqZsKjpeWEEsZiQzUFgb5B.ZYRUMF6n1-PlSvPs)
+[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/eJj7LRgkv3NCaBrGeqLD_FAkUJ9_IJUFleDaAXcQjZLqZsKjpeWEEsZiQzUFgb5B.ZYRUMF6n1-PlSvPs) 
+Quick note: About the video, I was really excited and happy to talk about these topics and mention my experiences. Though,I try to speed up in the video to meet the time requirement of 5 min, so my facial expressions can seem a bit anxious in the video about meeting the time mark :)  I have tried recording multiple times, but my facial expressions were always the same as I try to speed up. 
+
 
 
 
 ## License
 
-    Copyright [YOUR NAME]
+    Copyright [Youssef Salib]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
