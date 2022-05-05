@@ -69,12 +69,6 @@ Some questions regarding my project is how Can I add animal voices to the button
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](https://berkeley.zoom.us/rec/share/eJj7LRgkv3NCaBrGeqLD_FAkUJ9_IJUFleDaAXcQjZLqZsKjpeWEEsZiQzUFgb5B.ZYRUMF6n1-PlSvPs) 
-Quick note: About the video, I was really excited and happy to talk about these topics and mention my experiences. Though,I try to speed up in the video to meet the time requirement of 5 min, so my facial expressions can seem a bit anxious in the video about meeting the time mark :)  I have tried recording multiple times, but my facial expressions were always the same as I try to speed up. 
-
-
-
-
 ## License
 
     Copyright [Youssef Salib]
